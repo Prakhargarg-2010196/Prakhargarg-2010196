@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Improving my JS and problem solving skills.<br>
 👯 I’m looking to collaborate on frontend projects.<br>
 🤝 I’m looking for help with Data structure and algorithms.<br>
@@ -21,7 +21,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.info/) 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
-## Also Worked On
+## Also Experienced 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
@@ -41,10 +41,10 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/en/learn/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) 
 
-## Other Libraries I have Worked With!!
+## Libraries
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 
-## Tools  I commonly Use And Highly Recommend For Higher Productivty!!  
+## Productivity Tools
 ### For Note-Making And Task Organisation
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
@@ -53,7 +53,7 @@
 | 📊 GitHub Stats | 🔝 Top Contributed Repo  |
 | ----------------|  ----------------------- |
 |![](https://github-readme-stats.vercel.app/api?username=Prakhargarg-2010196&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-contributor-stats.vercel.app/api?username=Prakhargarg-2010196&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-| 🔥 GitHub Streak | 🌐 Github  Most Used Languages |
+| 🔥 GitHub Streak | 🌐 Github Languages |
 |![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhargarg-2010196&theme=highcontrast&hide_border=false)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhargarg-2010196&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)|
 |  🏆 Github Tropies |  ✅ Leetcode Stats|
 |  ![](https://github-profile-trophy.vercel.app/?username=Prakhargarg-2010196&theme=buddhism&no-frame=true&no-bg=true&margin-w=4) |![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg?ext=heatmap&theme=unicorn,dark)  |
