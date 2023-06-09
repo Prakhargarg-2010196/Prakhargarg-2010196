@@ -24,6 +24,6 @@
 ---
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg?theme=unicorn?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg?ext=heatmap?theme=unicorn)
 
 [![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
