@@ -22,4 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Prakhargarg-2010196&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg)
+
 [![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
