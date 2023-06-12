@@ -1,4 +1,6 @@
-# 💫 About Me
+[![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
+
+## Hi there 👋, this is Prakhar Garg.
 🔭 I’m currently working on Improving my JS and problem solving skills.<br>
 👯 I’m looking to collaborate on frontend projects.<br>
 🤝 I’m looking for help with Data structure and algorithms.<br>
@@ -7,7 +9,7 @@
 ⚡ Quote I get inspiration from:<br>     "The true knowledge is knowing that you know nothing."
 
 
-# ✍️ Random Dev Quote To Inspire From!!
+## ✍️ Random Dev Quote To Inspire From!!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
@@ -61,4 +63,4 @@
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
+
