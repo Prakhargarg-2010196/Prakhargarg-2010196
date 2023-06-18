@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## Hi There 👋, This Is Prakhar Garg.
-![](https://raw.githubusercontent.com/Prakhargarg-2010196/Prakhargarg-2010196/main/ReadyPlayerMe-Avatar.jpeg)
+![](https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/blob/main/ReadyPlayerMe-Avatar.jpeg)
 
 🔭 Currently working on **Improving my JS** and **Problem Solving Skills**.<br>
 👯 Looking to collaborate on frontend projects.<br>
