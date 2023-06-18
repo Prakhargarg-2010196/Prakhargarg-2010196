@@ -1,16 +1,17 @@
 [![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## Hi there 👋, this is Prakhar Garg.
-🔭 I’m currently working on **Improving my JS** and **Problem Solving Skills**.<br>
-👯 I’m looking to collaborate on frontend projects.<br>
-🤝 I’m looking for help with Data structure and algorithms.<br>
-🌱 I’m currently learning Nextjs and also advancing my J.S skills.<br>
+## Hi There 👋, This Is Prakhar Garg.
+![](https://raw.githubusercontent.com/Prakhargarg-2010196/Prakhargarg-2010196/main/ReadyPlayerMe-Avatar.jpeg)
+
+🔭 Currently working on **Improving my JS** and **Problem Solving Skills**.<br>
+👯 Looking to collaborate on frontend projects.<br>
+🤝 Looking for help with Data structure and algorithms.<br>
+🌱 Currently learning Nextjs and also advancing my J.S skills.
+
 💬 Ask me about Javascript, C++ and Frontend in General.<br>
-⚡ Quote I get inspiration from:<br>     "The true knowledge is knowing that you know nothing."
 
+⚡ Quote I get inspiration from:<br>"The true knowledge is knowing that you know nothing."
 
-## ✍️ Random Dev Quote To Inspire From!!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhargarg23) 
