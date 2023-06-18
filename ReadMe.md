@@ -6,7 +6,7 @@
 🔭 Currently working on **Improving my JS** and **Problem Solving Skills**.<br>
 👯 Looking to collaborate on frontend projects.<br>
 🤝 Looking for help with Data structure and algorithms.<br>
-🌱 Currently learning Nextjs and also advancing my J.S skills.
+
 
 💬 Ask me about Javascript, C++ and Frontend in General.<br>
 
