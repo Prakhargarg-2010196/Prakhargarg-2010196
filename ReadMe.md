@@ -1,57 +1,52 @@
 [![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## Hey There 👋, This Is Prakhar Garg.
-![](https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/blob/main/Prakhar_Avatar.jpeg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=BDF7D4&background=AED2FF00&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B+I+am+Prakhar+Garg)](https://git.io/typing-svg)
+<br>
+<div align="center">
+  <img  width=800 border="round" src="https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/assets/77922738/d2a04a1d-e78d-4d4e-9c69-ddefac37990f" alt="berserk-guts"/>
+</div>
+<br> <br>
 
-🔭 Currently working on **Improving my JS** and **Problem Solving Skills**.<br>
+
+🔭 Currently working on **Improving my JS through making projects** and **Problem Solving Skills**.
+<br>
 👯 Looking to collaborate on frontend projects.<br>
 🤝 Looking for help with Data structure and algorithms.<br>
-
-
 💬 Ask me about Javascript, C++ and Frontend in General.<br>
+ ### Quote to inspire from:<br>
+ >  "The true knowledge is knowing that you know nothing."
 
-⚡ Quote I get inspiration from:<br>"The true knowledge is knowing that you know nothing."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Follow+Me+Here)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=blue)](https://linkedin.com/in/prakhargarg23) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15645824/prakhar-garg) 
+[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=twitter&logoColor=blue)](https://twitter.com/prakhargarg23) 
+[![Hashnode Blog](https://img.shields.io/badge/hashnode-black?logo=hashnode&labelColor=blue)](https://prakharblogs.hashnode.dev/)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhargarg23) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15645824/prakhar-garg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prakhargarg23) 
-[![Hashnode Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://prakharblogs.hashnode.dev/)
 
-# 💻 Tech Stack:
-## Primary Languages
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/) 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.info/) 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
-## Also Experienced 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-## Hosting 
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/) 
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Tech%20Stack)](https://git.io/typing-svg)
+###  _Programming Languages_
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](https://javascript.info/) 
+[![C++](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w/) 
+[![HTML5](https://img.shields.io/badge/HTML-black?logo=html5)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
+[![CSS3M](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
 
-## Frameworks
+### _Frameworks_
+|  _Frontend frameworks_ |  _Backend Frameworks_ |
+|------------------------|-----------------------|
+| [![React](https://img.shields.io/badge/React-black?logo=react&logoColor=blue)](https://react.dev/) | [![NodeJS](https://img.shields.io/badge/Node-black?logo=react&logoColor=green)](https://nodejs.dev/en/learn/) |
+[![Vite](https://img.shields.io/badge/Vite-black?logo=vite)](https://vitejs.dev/) | [![Express.js](https://img.shields.io/badge/Express-black?logo=express&logoColor=red)](https://expressjs.com) |    
+ 
+### _Libraries_
+[![Redux](https://img.shields.io/badge/Redux-black?logo=redux&logoColor=red)](https://redux.js.org/)
 
-### Frontend frameworks
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Productivity+Tools)](https://git.io/typing-svg) 
 
-### Backend Frameworks
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/en/learn/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com) 
-
-## Libraries
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-
-## Productivity Tools
-### For Note-Making And Task Organisation
-[![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
-[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linuxjourney.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian)](https://obsidian.md/)
+[![Notion](https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion)](https://www.notion.so)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://linuxjourney.com/)
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo  |
 | ----------------|  ----------------------- |
@@ -61,7 +56,7 @@
 |  🏆 Github Tropies |  ✅ Leetcode Stats|
 |  ![](https://github-profile-trophy.vercel.app/?username=Prakhargarg-2010196&theme=buddhism&no-frame=true&no-bg=true&margin-w=4) |[![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg?ext=heatmap&theme=unicorn,dark)](https://leetcode.com/prakhar-garg/)  |
 
----
+
 
 
 
