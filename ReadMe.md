@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&label=Profile%20Views%20&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=BDF7D4&background=AED2FF00&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B+I+am+Prakhar+Garg)](https://git.io/typing-svg)
 <br>
@@ -8,11 +8,14 @@
 <br> <br>
 
 
-🔭 Currently working on **Improving my JS through making projects** and **Problem Solving Skills**.
+🔭 _Currently working on **Improving my JS through making projects** and **Problem Solving Skills**_
 <br>
-👯 Looking to collaborate on frontend projects.<br>
-🤝 Looking for help with Data structure and algorithms.<br>
-💬 Ask me about Javascript, C++ and Frontend in General.<br>
+👯 _Looking to collaborate on frontend projects_
+<br>
+🤝 _Looking for help with Data structure and algorithms_
+<br>
+💬 _Ask me about Javascript, C++ and Frontend in General_
+<br>
  ### Quote to inspire from:<br>
  >  "The true knowledge is knowing that you know nothing."
 
