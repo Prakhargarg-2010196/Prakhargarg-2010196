@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&label=Profile%20Views%20&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&label=Profile%20Views%20&color=12&icon=3&pretty=true)
 
 
 <div align="center">
@@ -19,18 +19,17 @@
  ### Quote to inspire from:<br>
  >  "The true knowledge is knowing that you know nothing."
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Follow+Me+Here)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=blue)](https://linkedin.com/in/prakhargarg23) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/15645824/prakhar-garg) 
-[![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=twitter&logoColor=blue)](https://twitter.com/prakhargarg23) 
-[![Hashnode Blog](https://img.shields.io/badge/hashnode-black?logo=hashnode&labelColor=blue)](https://prakharblogs.hashnode.dev/)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Follow+Me+Here)
+[![Static Badge](https://img.shields.io/badge/Bento-%23262577?logo=bento)](https://bento.me/prakhargarg)
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Tech%20Stack)](https://git.io/typing-svg)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Tech%20Stack)
+
 ###  _Programming Languages_
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](https://javascript.info/) 
 [![C++](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w/) 
 [![HTML5](https://img.shields.io/badge/HTML-black?logo=html5)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
@@ -45,7 +44,7 @@
 ### _Libraries_
 [![Redux](https://img.shields.io/badge/Redux-black?logo=redux&logoColor=red)](https://redux.js.org/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Productivity+Tools)](https://git.io/typing-svg) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Productivity+Tools)
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian)](https://obsidian.md/)
 [![Notion](https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion)](https://www.notion.so)
