@@ -20,7 +20,8 @@
  >  "The true knowledge is knowing that you know nothing."
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Follow+Me+Here)
-[![Static Badge](https://img.shields.io/badge/Bento-%23262577?logo=bento)](https://bento.me/prakhargarg)
+
+[![Static Badge](https://img.shields.io/badge/Bento-%23262577?style=social&logo=bento)](https://bento.me/prakhargarg)
 
 
 
