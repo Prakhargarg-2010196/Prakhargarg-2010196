@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=BDF7D4&background=AED2FF00&width=435&lines=Hey+There+%F0%9F%91%8B+I+am+Prakhar+Garg" alt="introduction"/>
-  <img  width=800 border="round" src="https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/assets/77922738/d2a04a1d-e78d-4d4e-9c69-ddefac37990f" alt="berserk-guts"/>
+  
 </div>
 <br> <br>
 
