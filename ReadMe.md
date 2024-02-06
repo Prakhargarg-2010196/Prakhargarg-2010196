@@ -1,63 +1,68 @@
-![](https://visitcount.itsvg.in/api?id=Prakhargarg-2010196&label=Profile%20Views%20&color=12&icon=3&pretty=true)
-
-
+<!--- Centered INTRO typing animation --->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=BDF7D4&background=AED2FF00&width=435&lines=Hey+There+%F0%9F%91%8B+I+am+Prakhar+Garg" alt="introduction"/>
-  
 </div>
-<br> <br>
-
-
-🔭 _Currently working on **Improving my JS through making projects** and **Problem Solving Skills**_
 <br>
-👯 _Looking to collaborate on frontend projects_
+<div align="center">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Prakhargarg-2010196&theme=radical&show_icons=true" />
+  
+ <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhargarg-2010196&layout=compact&theme=radical" />
+ <img width=45% align="center" src="https://leetcard.jacoblin.cool/prakhar-garg?theme=unicorn&font=Akshar">
+</div>
+<br> 
+
+
+
+## Language and Tools
+
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+  <!--- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en) -->
+
 <br>
-🤝 _Looking for help with Data structure and algorithms_
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.akgec.ac.in/wp-content/themes/twentysixteen/img/AKGEC_1_0.png"/>](https://www.akgec.ac.in/)
+**Computer Science Engineering Undergraduate** \
+[**Ajay Kumar Garg Engineering College**](https://www.akgec.ac.in/)  • In progress\
+Skills: `Computer Architechture` `Image Processing` `Data Structure` `Algorithms` 
+`Compiler Design` `Software Development` 
+<!--
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/) -->
+**Frontend Developer** 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/assets/77922738/f66cc0a7-dc98-4fb5-937d-2cec366cde28"/>](https://react.dev/)
+<!-- [**One Bit Code**](https://www.onebitcode.com/) • In progress \  for future to right about company experiences-->
+Skills: `HTML5` `CSS3` `JavaScript` `ReactJs` `TailwindCSS` `Flexbox` `GRID` `Bootstrap` `NextJs`  `Git` `GitHub` `TypeScript`  `NodeJs` `ExpressJS`  `MongoDB` `PostgreSQL` 
+
+
 <br>
-💬 _Ask me about Javascript, C++ and Frontend in General_
-<br>
- ### Quote to inspire from:<br>
- >  "The true knowledge is knowing that you know nothing."
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Follow+Me+Here)
-
-[![Static Badge](https://img.shields.io/badge/Bento-%23262577?style=social&logo=bento)](https://bento.me/prakhargarg)
-
+## Contact me:
+<div>
+<a href="https://www.instagram.com/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:prakhardev@duck.com"><img loading="lazy" src="https://img.shields.io/badge/Skiff-Mail-D14836?style=for-the-badge&logo=Skiff&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
+---
+
+Credit: [Prakhar Garg](https://github.com/Prakhargarg-2010196/)
+Last Edited on: 06-02-24
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Tech%20Stack)
 
-###  _Programming Languages_
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](https://javascript.info/) 
-[![C++](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus&logoColor=blue)](https://en.cppreference.com/w/) 
-[![HTML5](https://img.shields.io/badge/HTML-black?logo=html5)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
-[![CSS3M](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue)](https://internetingishard.netlify.app/html-and-css/basic-web-pages/index.html)
 
-### _Frameworks_
-|  _Frontend frameworks_ |  _Backend Frameworks_ |
-|------------------------|-----------------------|
-| [![React](https://img.shields.io/badge/React-black?logo=react&logoColor=blue)](https://react.dev/) | [![NodeJS](https://img.shields.io/badge/Node-black?logo=react&logoColor=green)](https://nodejs.dev/en/learn/) |
-[![Vite](https://img.shields.io/badge/Vite-black?logo=vite)](https://vitejs.dev/) | [![Express.js](https://img.shields.io/badge/Express-black?logo=express&logoColor=red)](https://expressjs.com) |    
+
+
  
-### _Libraries_
-[![Redux](https://img.shields.io/badge/Redux-black?logo=redux&logoColor=red)](https://redux.js.org/)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&color=BDF7D4&background=AED2FF00&width=435&lines=Productivity+Tools)
-
-[![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian)](https://obsidian.md/)
-[![Notion](https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion)](https://www.notion.so)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://linuxjourney.com/)
-
-| 📊 GitHub Stats | 🔝 Top Contributed Repo  |
-| ----------------|  ----------------------- |
-|![](https://github-readme-stats.vercel.app/api?username=Prakhargarg-2010196&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-contributor-stats.vercel.app/api?username=Prakhargarg-2010196&limit=5&theme=dark&combine_all_yearly_contributions=true) |
-| 🔥 GitHub Streak | 🌐 Github Languages |
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Prakhargarg-2010196&theme=highcontrast&hide_border=false)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhargarg-2010196&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)|
-|  🏆 Github Tropies |  ✅ Leetcode Stats|
-|  ![](https://github-profile-trophy.vercel.app/?username=Prakhargarg-2010196&theme=buddhism&no-frame=true&no-bg=true&margin-w=4) |[![Leetcode Stats](https://leetcard.jacoblin.cool/prakhar-garg?ext=heatmap&theme=unicorn,dark)](https://leetcode.com/prakhar-garg/)  |
 
 
 
