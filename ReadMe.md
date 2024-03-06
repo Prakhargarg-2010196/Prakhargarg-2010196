@@ -5,8 +5,10 @@
 <br>
 <div align="center">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Prakhargarg-2010196&theme=radical&show_icons=true" />
-  
  <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhargarg-2010196&layout=compact&theme=radical" />
+</div>
+<br>
+<div align="center">
  <img width=45% align="center" src="https://leetcard.jacoblin.cool/prakhar-garg?theme=unicorn&font=Akshar">
 </div>
 <br> 
