@@ -49,6 +49,9 @@ Skills: `HTML5` `CSS3` `JavaScript` `ReactJs` `TailwindCSS` `Flexbox` `GRID` `Bo
 <a href="https://www.instagram.com/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:prakhardev@duck.com"><img loading="lazy" src="https://img.shields.io/badge/Duck-Mail-D14836?style=for-the-badge&logo=Skiff&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prakhargarg23" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prakhargarg23?trk=profile-badge">Prakhar G.</a></div>
+              
 </div>
 
 
