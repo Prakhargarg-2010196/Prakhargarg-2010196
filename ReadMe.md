@@ -1,75 +1,64 @@
-<!--- Centered INTRO typing animation --->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=BDF7D4&background=AED2FF00&width=435&lines=Hey+There+%F0%9F%91%8B+I+am+Prakhar+Garg" alt="introduction"/>
+  <h1>Hello there! 👋 I'm Prakhar Garg</h1>
 </div>
-<br>
-<div align="center">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Prakhargarg-2010196&theme=radical&show_icons=true" />
- <img width=34% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhargarg-2010196&layout=compact&theme=radical" />
-</div>
-<br>
-<div align="center">
- <img width=45% align="center" src="https://leetcard.jacoblin.cool/prakhar-garg?theme=unicorn&font=Akshar">
-</div>
-<br> 
-
-
-
-## Language and Tools
-
-
-#### Main Stack:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
-  <!--- [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en) -->
 
 <br>
 
-## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.akgec.ac.in/wp-content/themes/twentysixteen/img/AKGEC_1_0.png"/>](https://www.akgec.ac.in/)
-**Computer Science Engineering Undergraduate** \
-[**Ajay Kumar Garg Engineering College**](https://www.akgec.ac.in/)  • In progress\
-Skills: `Computer Architechture` `Image Processing` `Data Structure` `Algorithms` 
-`Compiler Design` `Software Development` 
-<!--
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/) -->
-**Frontend Developer** 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/Prakhargarg-2010196/Prakhargarg-2010196/assets/77922738/f66cc0a7-dc98-4fb5-937d-2cec366cde28"/>](https://react.dev/)
-<!-- [**One Bit Code**](https://www.onebitcode.com/) • In progress \  for future to right about company experiences-->
-Skills: `HTML5` `CSS3` `JavaScript` `ReactJs` `TailwindCSS` `Flexbox` `GRID` `Bootstrap` `NextJs`  `Git` `GitHub` `TypeScript`  `NodeJs` `ExpressJS`  `MongoDB` `PostgreSQL` 
+## 👋 About Me
+A passionate full-stack developer focused on building impactful web applications. Currently, I'm exploring **React** and **Node.js** to create dynamic and scalable solutions. I love contributing to open-source projects and continuously learning new technologies.
+
+<br>
+
+## 🚀 Projects
+
+### 💻 Development 
+- **[Eventooze](https://github.com/Prakhargarg-2010196/eventooze):** : An Event Management Website which lets you create,update,delete,favourite and register for event. It also provides features like authentication and authorisation.
+- **[Crop Yield Prediction](https://github.com/Prakhargarg-2010196/crop-yield-prediction):** A [Research paper](https://ieeexplore.ieee.org/document/10486160/) based project for calculating the yield of the crops based on various machine learning algorithms like Random Forest Algorithm, Decision Tree, KNN and FNN.
+
+### 🎨 Design
+- **[CareerMapAI](https://www.figma.com/design/vxHmTu6IC8csXaLIoCyNlW/SIH2023?t=LZvcwX3aJ1dZkEjF-0)** : A Comprehensive desktop UI design for an AI project, showcasing student and admin dashboards, login, sign-up, and other key interfaces.
+<br>
+
+## 🎯 Current Learning & Goals
+
+- Deepening my understanding of **TypeScript** for better front-end development.
+- Exploring **Nest.js** for Scalable backend development on top of Nodejs.
+- Preparing for technical interviews with **LeetCode**
+- Trying to Learn **UI & UX design** for better crafting my self-projects
 
 
 <br>
 
-## Contact me:
+## 🏆 Achievements
+
+- **Open Source Contributions:** Active contributor to the r/DevelopersIndia community.
+- **Technical Internships:** Developed a Common Services API Layer and Unique Customer Id Services at Samunnati.
+- **Hackathon Participant:** Competed in Smart India Hackathon focusing on AI-driven solutions.
+
+<br>
+
+## 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+<br>
+
+## 🎨 Fun Facts
+
+- I explore art and psychology, always hunting for new ideas and inspiration.
+- I unwind by watching movies, blending work with some cinematic fun.
+
+<br>
+
+## 📬 Contact Me
+
 <div>
-<a href="https://www.instagram.com/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:prakhardev@duck.com"><img loading="lazy" src="https://img.shields.io/badge/Duck-Mail-D14836?style=for-the-badge&logo=Skiff&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/prakhargarg23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-      
+<a href="https://www.instagram.com/prakhaaaaaaaar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href = "mailto:prakhardev@duck.com"><img src="https://img.shields.io/badge/Duck-Mail-D14836?style=for-the-badge&logo=Skiff&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/prakhaaaaaaaar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="prakhargarg23" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prakhargarg23?trk=profile-badge">Prakhar G.</a></div>
-        
-
----
-
-Credit: [Prakhar Garg](https://github.com/Prakhargarg-2010196/)
-Last Edited on: 06-02-24
-
-
-
-
-
-
-
- 
-
-
-
-
-
