@@ -4,6 +4,8 @@
 
 <br>
 
+<div align="center"><a href="https://app.daily.dev/prakhargdev"><img src="https://api.daily.dev/devcards/v2/RREYJnrIteDellojnZdYK.png?r=ybh&type=wide" width="652" alt="Prakhar garg's Dev Card"/></a>
+</div>
 
 ## 👋 About Me
 A passionate full-stack developer focused on building impactful web applications. Currently, I'm exploring **React** and **Node.js** to create dynamic and scalable solutions. I love contributing to open-source projects and continuously learning new technologies.
