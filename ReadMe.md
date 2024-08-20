@@ -57,6 +57,20 @@ A passionate full-stack developer focused on building impactful web applications
 
 <br>
 
+## 💻 Coding Profiles 
+
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakhardev?theme=dark&font=Abel&ext=heatmap)
+
+## Codeforces
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NEO-2010196&theme=blueberry&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/NEO-2010196)
+## 📑 Badges
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66c4894a34a9226f383dbd9b?variant=dark)](https://roadmap.sh)
+
+<br>
+
 ## 📬 Contact Me
 
 <div>
