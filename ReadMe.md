@@ -67,7 +67,7 @@ A passionate full-stack developer focused on building impactful web applications
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NEO-2010196&theme=blueberry&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/NEO-2010196)
 ## 📑 Badges
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66c4894a34a9226f383dbd9b?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66c4894a34a9226f383dbd9b?variant=dark)](https://roadmap.sh)
 
 <br>
 
