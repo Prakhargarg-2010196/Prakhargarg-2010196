@@ -4,24 +4,6 @@
 
 <br>
 
-<div align="center"><a href="https://app.daily.dev/prakhargdev"><img src="https://api.daily.dev/devcards/v2/RREYJnrIteDellojnZdYK.png?r=ybh&type=wide" width="652" alt="Prakhar garg's Dev Card"/></a>
-</div>
-
-## 👋 About Me
-A passionate full-stack developer focused on building impactful web applications. Currently, I'm exploring **React** and **Node.js** to create dynamic and scalable solutions. I love contributing to open-source projects and continuously learning new technologies.
-
-<br>
-
-## 🚀 Projects
-
-### 💻 Development 
-- **[Eventooze](https://github.com/Prakhargarg-2010196/eventooze):** : An Event Management Website which lets you create,update,delete,favourite and register for event. It also provides features like authentication and authorisation.
-- **[Crop Yield Prediction](https://github.com/Prakhargarg-2010196/crop-yield-prediction):** A [Research paper](https://ieeexplore.ieee.org/document/10486160/) based project for calculating the yield of the crops based on various machine learning algorithms like Random Forest Algorithm, Decision Tree, KNN and FNN.
-
-### 🎨 Design
-- **[CareerMapAI](https://www.figma.com/design/vxHmTu6IC8csXaLIoCyNlW/SIH2023?t=LZvcwX3aJ1dZkEjF-0)** : A Comprehensive desktop UI design for an AI project, showcasing student and admin dashboards, login, sign-up, and other key interfaces.
-<br>
-
 ## 🎯 Current Learning & Goals
 
 - Deepening my understanding of **TypeScript** for better front-end development.
@@ -57,27 +39,9 @@ A passionate full-stack developer focused on building impactful web applications
 
 <br>
 
-## 💻 Coding Profiles 
-| LeetCode Stats | Codeforces Stats |
-| --- | --- |
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhardev?theme=dark&font=Abel&ext=heatmap) | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=NEO-2010196&theme=blueberry&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/NEO-2010196) |
-
-
-
-
-## Codeforces
-
-
-## 📑 Badges
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66c4894a34a9226f383dbd9b?variant=dark)](https://roadmap.sh)
-
-<br>
-
 ## 📬 Contact Me
 
 <div>
-<a href="https://www.instagram.com/prakhaaaaaaaar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href = "mailto:prakhardev@duck.com"><img src="https://img.shields.io/badge/Duck-Mail-D14836?style=for-the-badge&logo=Skiff&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/prakhaaaaaaaar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/prakhargdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
