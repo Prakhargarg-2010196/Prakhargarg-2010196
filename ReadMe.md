@@ -4,19 +4,10 @@
 
 <hr>
 
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-
 <br>
 
-## 🎨 Fun Facts
-
-- I explore art and psychology, always hunting for new ideas and inspiration.
+- Breaking the systems and building the systems for fun. 
+- I create art and am interested in psychology and am always hunting for new ideas and inspiration.
 - I unwind by watching movies, blending work with some cinematic fun.
 
 <br>
