@@ -2,25 +2,7 @@
   <h1>Hello there! 👋 I'm Prakhar Garg</h1>
 </div>
 
-<br>
-
-## 🎯 Current Learning & Goals
-
-- Deepening my understanding of **TypeScript** for better front-end development.
-- Exploring **Nest.js** for Scalable backend development on top of Nodejs.
-- Preparing for technical interviews with **LeetCode**
-- Trying to Learn **UI & UX design** for better crafting my self-projects
-
-
-<br>
-
-## 🏆 Achievements
-
-- **Open Source Contributions:** Active contributor to the r/DevelopersIndia community.
-- **Technical Internships:** Developed a Common Services API Layer and Unique Customer Id Services at Samunnati.
-- **Hackathon Participant:** Competed in Smart India Hackathon focusing on AI-driven solutions.
-
-<br>
+<hr>
 
 ## 🛠 Tech Stack
 
